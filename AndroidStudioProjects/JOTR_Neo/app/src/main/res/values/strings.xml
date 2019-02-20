@@ -1,0 +1,90 @@
+<!--
+  ~ Copyright 2015 © Johnnie Ruffin
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">Johnnie\'s Old Time Radio Neo</string>
+    <string name="hello_world">Hello world! Johnnie Loves you!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select">Burns&amp;Allen</string>
+    <string name="action_search">Search</string>
+    <string name="action_compose">Compose</string>
+    <string name="play_button">Play Button</string>
+    <string name="rewind_button">Rewind Button</string>
+    <string name="forward_button">Forward Button</string>
+    <string name="stop_button">Stop Button</string>
+    <string name="close_button">Close Button</string>
+    <string name="delete_button">Delete Button</string>
+    <string name="download_button">Download Button</string>
+    <string name="menu_button">Menu Button</string>
+    <string name="title_activity_download">Download</string>
+    <string name="title_activity_media_player">Media Player</string>
+
+    <string name="title_activity_play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_category">Choose A Category</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="downloading">Downloading....</string>
+    <string name="no_internet_stream">No Internet Connection Detected. Cannot Stream Media.</string>
+    <string name="no_external_storage">External Storage Unavailable. Cannot Proceed.</string>
+    <string name="no_internet_download">No Internet Connection Detected. Cannot proceed with download.</string>
+    <string name="download_in_progress">Download In Progress: </string>
+    <string name="download_in_pending">Download Pending: </string>
+    <string name="insufficient_volume">Cannot Download due to insufficient Volume. Please delete an item to download.</string>
+    <string name="deleting">Deleting </string>
+    <string name="button_played">Played</string>
+    <string name="button_not_played">Not Played</string>
+    <string name="button_all_shows">All Shows</string>
+
+    <string name="category_comedy">Comedy</string>
+    <string name="category_scifi">Science-Fiction</string>
+    <string name="category_drama">Drama</string>
+    <string name="category_thriller">Thriller</string>
+    <string name="category_horror">Horror</string>
+    <string name="category_western">Western</string>
+    <string name="title_activity_comedy">Comedy</string>
+    <string name="title_activity_sci_fi">SciFi</string>
+    <string name="title_activity_thriller">Thriller</string>
+    <string name="title_activity_horror">Horror</string>
+    <string name="title_activity_western">Western</string>
+
+    // Menus
+    <string name="mark_as_played">Mark As Played</string>
+    <string name="mark_as_unplayed">Mark As Not Played</string>
+
+    // Comedy
+    <string name="BurnsAndAllenImage">Burns And Allen</string>
+    <string name="FibberMcGeeImage">Fibber McGee and Molly</string>
+    <string name="MartinAndLewisImage">Martin And Lewis</string>
+    <string name="GilderSleeveImage">The Great Gildersleeves</string>
+    <string name="JackBennyImage">Jack Benny</string>
+    <string name="BobHopeImage">Bob Hope</string>
+    <string name="OurMissBrooksImage">Our Miss Brooks</string>
+    <string name="FatherKnowsBestImage">Father Knows Best</string>
+
+    // Science Fiction
+
+    <string name="XMinus1">XMinus1</string>
+    <string name="InnerSactum">The Inner Sanctum</string>
+
+    // Thriller
+
+    <string name="CBSMysteryTheater">CBS Mystery Theater</string>
+    <string name="DimensionX">Dimension X</string>
+    <string name="NightBeat">Night Beat</string>
+    <string name="Speed">Speed Gibson Of The International Secret Police</string>
+    <string name="TheWhistler">The Whistler</string>
+
+    // Western
+
+    <string name="HopalongCassidy">Hopalong Cassidy</string>
+    <string name="FtLaramie">Fort Laramie</string>
+    <string name="LoneRanger">The Long Ranger</string>
+    <string name="PatO">Pat O\'Daniel and His Hillbillies</string>
+</resources>
